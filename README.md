@@ -26,3 +26,5 @@ The HTML structure includes:
 
 <img width="489" height="316" alt="Screenshot 2025-07-19 at 3 34 20 AM" src="https://github.com/user-attachments/assets/307667f6-35b3-48da-b185-63fc65ef6ced" />
 
+## Conclusion
+This weather application serves as a practical tool for users to check weather conditions in different cities. With its professional design and responsive layout, it provides a seamless user experience.
